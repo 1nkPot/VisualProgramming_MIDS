@@ -1,0 +1,15 @@
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.csproj.AssemblyReference.cache
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.AssemblyInfoInputs.cache
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.AssemblyInfo.cs
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.csproj.CoreCompileInputs.cache
+C:\Users\233503\source\repos\233503_VS\233503_VS\bin\Debug\net6.0\233503_VS.exe
+C:\Users\233503\source\repos\233503_VS\233503_VS\bin\Debug\net6.0\233503_VS.deps.json
+C:\Users\233503\source\repos\233503_VS\233503_VS\bin\Debug\net6.0\233503_VS.runtimeconfig.json
+C:\Users\233503\source\repos\233503_VS\233503_VS\bin\Debug\net6.0\233503_VS.dll
+C:\Users\233503\source\repos\233503_VS\233503_VS\bin\Debug\net6.0\233503_VS.pdb
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.dll
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\refint\233503_VS.dll
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.pdb
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\233503_VS.genruntimeconfig.cache
+C:\Users\233503\source\repos\233503_VS\233503_VS\obj\Debug\net6.0\ref\233503_VS.dll
